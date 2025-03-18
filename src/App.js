@@ -19,7 +19,7 @@ const Logo = ({size, color}) => {
 }
 
 const Loader = ({size}) => {
-	let cpSize = "35px";
+	let cpSize = "50px";
 	switch(size){
 		case "small":
 			cpSize = "30px";
